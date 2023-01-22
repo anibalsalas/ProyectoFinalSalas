@@ -1,0 +1,35 @@
+
+[
+    {
+      "id":1,
+      "marca":"FABER CASTELL",
+      "desc":"Témpera X 7 Faber Castell",
+      "precio":"20.80",
+      "img":"/public/img/tempera.jpg",
+      "cantidad":1
+    },
+    {
+      "id":2,
+      "marca":"ARTESCO",
+      "desc":"Perforador 60 Hojas M-93 Artesco",
+      "precio":"95.40",
+      "img":"/public/img/perforador.jpg",
+      "cantidad":1
+    },
+    {
+      "id":3,
+      "marca":"LAYCONSA",
+      "desc":"Plastilina X 10 Puppy Layconsa",
+      "precio":"3.70",
+      "img":"/public/img/plastilina.jpg",
+      "cantidad":1
+    },
+    {
+      "id":4,
+      "marca":"PILOT",
+      "desc":"Bolígrafo Pilot Bl-G1-7 Plata ",
+      "precio":"4.70",
+      "img":"/public/img/boligrafo.jpg",
+      "cantidad":1
+    }
+  ]
